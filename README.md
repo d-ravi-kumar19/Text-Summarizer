@@ -1,5 +1,29 @@
-### Text Summerizer
-- An interactive webpage contains text area to provide text and summarizes the text displayed below.
-- The webpage uses AJAX for displaying the summary
+# Text Summarizer
 
-  ![Screenshot 2024-02-05 134608](https://github.com/d-ravi-kumar19/Text-Summerizer/assets/108973782/1e6aed9e-0d6c-4500-8476-47baa21e7290)
+Welcome to the Text Summarizer project! This project focuses on developing a system for automatic text summarization using Natural Language Processing (NLP) techniques and algorithms.
+
+## Overview
+
+- **Objective:** Generate concise and meaningful summaries of given text documents.
+- **Techniques Used:**
+  - Natural Language Processing (NLP)
+  - Python with NLTK (Natural Language Toolkit) and PageRank algorithm
+
+## Project Highlights
+
+1. **Text Summarization:**
+   - Developed a robust text summarization system using NLP techniques.
+   - Implemented the PageRank algorithm for extracting key sentences.
+
+2. **NLP Techniques:**
+   - Leveraged NLP methods for pre-processing text data.
+   - Explored algorithms for identifying and extracting essential information.
+
+3. **PageRank Algorithm:**
+   - Applied the PageRank algorithm to rank sentences and select the most important ones for the summary.
+
+## How to Use
+
+- Clone the repository to your local machine.
+  ```bash
+  git clone https://github.com/d-ravi-kumar19/Text-Summarizer.git
