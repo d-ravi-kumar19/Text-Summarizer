@@ -1,5 +1,5 @@
 # Text Summarizer
-
+## Progess: ![](https://geps.dev/progress/90)
 Welcome to the Text Summarizer project! This project focuses on developing a system for automatic text summarization using Natural Language Processing (NLP) techniques and algorithms.
 
 ## Overview
